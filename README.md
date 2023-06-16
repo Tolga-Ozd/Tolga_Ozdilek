@@ -1,4 +1,4 @@
-# Tolga_Ozdilek
+# Tolga-Ozd
 <h1 align="center">Hi there 👋 I'm Tolga Ozdilek </h1>
 <h3 align="center">A passionate Frontend Developer 😎 </h3>
 
